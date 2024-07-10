@@ -1,0 +1,28 @@
+/* styles.css */
+.root {
+    -fx-background-color: #f0f0f0;
+    -fx-font-family: 'Arial';
+}
+
+.label {
+    -fx-font-size: 18px;
+    -fx-text-fill: #333333;
+
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-padding: 8px 16px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.text-field {
+    -fx-pref-width: 200px;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 3px;
+}
